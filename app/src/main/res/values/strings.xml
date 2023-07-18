@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Newsletter</string>
+    <string name="sport">SPORTS</string>
+    <string name="it">IT TECH</string>
+    <string name="society">SOCIETY</string>
+    <string name="economy">ECONOMY</string>
+    <string name="politics">POLITICS</string>
+    <string name="feed">FEED</string>
+</resources>
