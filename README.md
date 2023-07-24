@@ -1,7 +1,7 @@
 # NewsList
 NewsList using Kotlin
 
-This project referred to the lecture of pastcampus.
+This project referred to the lecture of Fastcampus.
 
 ### **\[Learn\]**
 | Skills |
